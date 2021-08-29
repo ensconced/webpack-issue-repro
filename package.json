@@ -1,0 +1,15 @@
+{
+  "name": "webpackrepro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server dist"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "live-server": "^1.2.1",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
